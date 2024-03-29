@@ -1,0 +1,14 @@
+Deep Learning is a type of Machine Learning where we consider nodes that have different weights and they
+train the model through the time. The starting point is the scalar product.
+
+We are having 3 parts right now in our Deep Learning process:
+ - Input
+ - Nodes
+ - Output
+
+You canhave several nodes to increase the precision.
+
+IMPORTANT: How are defined the "weights"?
+ANSWER: The model training process sets them to optimize predictive accuracy.
+        In fact, the complexity of the interactions scales with the layers
+        

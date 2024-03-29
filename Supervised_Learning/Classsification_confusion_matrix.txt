@@ -1,0 +1,10 @@
+    If we want to reduce wasted effort, returning the highest proportion of TRUE POSITIVES, we should use the PRECISION.
+Example: If a customer is good for a sales department.
+
+    If we want to minimize the number of FALSE NEGATIVES, we consider the RECALL as a relevant metric.
+Avoiding the presence of cancer in some hospital patients.
+
+    We can use also the F1-Score for minimizing False negatives.
+
+Accuracy: True predictions / Total sum of metrics.
+

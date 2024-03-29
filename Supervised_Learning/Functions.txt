@@ -1,0 +1,21 @@
+KMeans Classifier
+train_test_split
+.reshape (for dataframes)
+LinearRegression
+.fit (for supervised models)
+.predict (for supervised models)
+mean_squared_error
+cross_val_score and KFold
+Ridge Regression
+Lasso Regression
+Confusion Matrix and Classification Report
+Logistic Regression
+Roc Curve
+Roc Auc Score
+.predict_proba() for LogisticRegression model
+GridSearchCV
+RandomizedSearchCV
+Instantiation of categorical Values
+SimpleImputer
+Pipeline 
+StandardScaler()
